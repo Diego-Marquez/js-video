@@ -41,7 +41,7 @@ body {
   color: white;
   padding: 1em;
   box-sizing: border-box;
-  height: 100em;
+  height: 100vh;
   overflow: auto;
 }
 
